@@ -1,5 +1,5 @@
 
-package TicTac;
+package TicTacToeGame;
 
 public class LaunchGamecheck {
     public static void main(String[] args) {
