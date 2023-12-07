@@ -1,4 +1,4 @@
-package TicTac;
+package TicTacToeGame;
 
 public abstract class Player {
     String name;
